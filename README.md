@@ -48,5 +48,5 @@ Perform statistical tests like the chi-square test to validate findings and stre
 5. Hypothesis Testing.
 
 ## Insights and Recommendations
-The Insights and Recommendations for Walmart Sales Analysis (https://github.com/Sakthipavithran16/Marketing-A-B-testing/blob/main/Marketing_Insights.pdf)
+The Insights and Recommendations for Marketing Campaign Analysis (https://github.com/Sakthipavithran16/Marketing-A-B-testing/blob/main/Marketing_Insights.pdf)
 
